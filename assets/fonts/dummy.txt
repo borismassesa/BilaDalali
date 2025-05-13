@@ -1,0 +1,6 @@
+This file is a placeholder to ensure the fonts directory exists.
+
+For a production app, download and place the following font files here:
+- Lato-Regular.ttf
+- Lato-Bold.ttf
+- Lato-Light.ttf
